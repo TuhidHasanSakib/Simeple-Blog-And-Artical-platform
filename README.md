@@ -34,7 +34,7 @@ git clone https://github.com/TuhidHasanSakib/Simeple-Blog-And-Artical-platform.g
 ```
 - Change directory
 ```
-cd oredoo-laravel-blog-project
+cd Simeple-Blog-And-Article-platform
 ```
 - Copy .env.example file
 ```
